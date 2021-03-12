@@ -1,4 +1,4 @@
-# SprintApp: Window Desktop Application for managing projects
+# SprintApp: Windows Desktop Application for managing projects
 
 ## Purpose
 
