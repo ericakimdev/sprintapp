@@ -1,0 +1,36 @@
+﻿<Window x:Class="SprintApp.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SprintApp"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        Title="HelpWindow" Height="400" Width="300"
+        ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" 
+        WindowStyle="None" >
+    <Grid MouseMove="DragWindow" >
+        <Rectangle Height="280" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#25B92A"/>
+                    <GradientStop Color="#6FCEF0" Offset="1"/>
+                    <GradientStop Color="#40D2A2" Offset="0.546"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Rectangle Width="280" Height="355" VerticalAlignment="Bottom" Margin="10,0,10,23" RadiusY="10" RadiusX="10" Fill="White">
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="15" Direction="0" RenderingBias="Quality" ShadowDepth="1" Color="#FFBBBBBB"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <Grid VerticalAlignment="Bottom" Margin="35,0,35,43" Height="311">
+            <Label Content="HELP" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="86,17,75,0" Foreground="Gray" FontSize="18" FontWeight="Bold" Width="69"/>
+            <StackPanel VerticalAlignment="Center" Margin="15"/>
+        </Grid>
+
+        <Button Width="88" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="105,0,107,51" Content="CLOSE" Click="Close_Click" Height="33"/>
+    </Grid>
+</Window>

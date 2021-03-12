@@ -1,0 +1,39 @@
+﻿<Page x:Class="SprintApp.Pages.SprintPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SprintApp.Pages"
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+      d:DesignHeight="419" d:DesignWidth="648"
+      Title="SprintPage">
+
+    <Grid HorizontalAlignment="Left" Height="419" VerticalAlignment="Bottom" Width="648" Background="#FFFFFDFD">
+        <Grid HorizontalAlignment="Left" Height="419" VerticalAlignment="Bottom" Width="648" Background="#FFFFFDFD">
+            <ComboBox x:Name="projectsComboBox" SelectionChanged="ProjectCB_SelectionChanged" HorizontalAlignment="Left" Margin="170,40,0,0" VerticalAlignment="Top" Width="160"/>
+            <Label Content="Choose a project" HorizontalAlignment="Left" Margin="49,44,0,0" VerticalAlignment="Top"/>
+
+            <ComboBox x:Name="sprintComboBox" SelectionChanged="SprintCB_SelectionChanged" HorizontalAlignment="Left" Margin="406,40,0,0" VerticalAlignment="Top" Width="168"/>
+
+            <ScrollViewer x:Name="membersScrollView" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Background="#FFF1F1F1" Margin="15,94,15,13">
+                <DataGrid Name="EstimatesTable" AutoGenerateColumns="False">
+                    <DataGrid.Columns>
+
+                        <DataGridTextColumn Header="User Story" Width="200" Binding="{Binding UserStory}" />
+
+                        <DataGridTextColumn Header="Developer" Binding="{Binding Name}" />
+
+                        <DataGridTextColumn Header="Est. Time" Binding="{Binding EstimatedTime}" />
+
+                        <DataGridTextColumn Header="Actual Time" Binding="{Binding ActualTime}" />
+
+                        <DataGridTextColumn Header="Accuracy %" Binding="{Binding Accuracy}" />
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </ScrollViewer>
+
+        </Grid>
+    </Grid>
+</Page>

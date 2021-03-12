@@ -1,0 +1,6 @@
+
+s0 = https://blog.capterra.com/wp-content/uploads/2018/05/HEAD-3_Sprint_Planning_Blunders_That_Kill_Employee_Productivity_Hero_no_text.png
+
+s1 = https://mwsummers.files.wordpress.com/2016/08/sprint-planning1.png
+
+s2 = https://webstockreview.net/images/clipart-desk-meeting-19.png

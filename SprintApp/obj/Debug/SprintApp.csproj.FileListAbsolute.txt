@@ -1,0 +1,539 @@
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\App.baml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\mongocrypt.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\DnsClient.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\SharpCompress.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\System.Buffers.dll
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\DnsClient.xml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\bin\Debug\System.Buffers.xml
+C:\Users\Owner\Desktop\TermProject\SprintApp\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\mongocrypt.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\SprintApp.exe
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\SprintApp.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\DnsClient.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\SharpCompress.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\System.Buffers.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\DnsClient.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\bin\Debug\System.Buffers.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\App.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\App.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\MainWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp.exe
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\SprintApp.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\3 - Updated GUI\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\mongocrypt.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\DnsClient.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\SharpCompress.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\System.Buffers.dll
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\DnsClient.xml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\bin\Debug\System.Buffers.xml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\App.baml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.baml
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.g.cs
+C:\Users\Owner\Desktop\4-SprintApp\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\mongocrypt.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.exe
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\DnsClient.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\SharpCompress.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\System.Buffers.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\DnsClient.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\bin\Debug\System.Buffers.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\App.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\App.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\MainWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.exe
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\6 - SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\mongocrypt.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\DnsClient.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\SharpCompress.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\System.Buffers.dll
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\DnsClient.xml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\bin\Debug\System.Buffers.xml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\App.baml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.baml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.baml
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\6 - SprintApp\SprintApp\SprintApp\SprintApp\obj\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\mongocrypt.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\DnsClient.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\SharpCompress.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\System.Buffers.dll
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\DnsClient.xml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\bin\Debug\System.Buffers.xml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\App.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\BacklogPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\BacklogPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\SprintPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\SubtaskPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\UserStoryPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\SprintPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\SubtaskPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\UserStoryPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\mongocrypt.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\SprintApp.exe
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\SprintApp.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\DnsClient.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\SharpCompress.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\System.Buffers.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\DnsClient.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\bin\Debug\System.Buffers.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\BacklogPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\SprintPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\SubtaskPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\UserStoryPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\App.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\App.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\MainWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\AddProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\BacklogPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\RegisterPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\SprintPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\SubtaskPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\UpdateProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\UserStoryPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp.exe
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\AddSubtaskPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\UpdateSubtaskPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\AddSubtaskPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\UpdateSubtaskPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\AddUserStoryPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\UpdateUserStoryPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\AddUserStoryPage.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\UpdateUserStoryPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\AddProjectPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\AddSubtaskPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\AddUserStoryPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\BacklogPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\SprintPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\SubtaskPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\UpdateProjectPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\UpdateSubtaskPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\UpdateUserStoryPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\UserStoryPage.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\mongocrypt.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\SprintApp.exe
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\SprintApp.pdb
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\DnsClient.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\SharpCompress.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\System.Buffers.dll
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\DnsClient.xml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\bin\Debug\System.Buffers.xml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\App.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\AddProjectPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\AddSubtaskPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\AddUserStoryPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\BacklogPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\RegisterPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\SprintPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\SubtaskPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\UpdateProjectPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\UpdateSubtaskPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\UpdateUserStoryPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\Pages\UserStoryPage.baml
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\SprintApp3\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\HomeWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\LoginWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\AddSubtaskPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\AddUserStoryPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\UpdateSubtaskPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\UpdateUserStoryPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\AddSubtaskPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\AddUserStoryPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\UpdateSubtaskPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\UpdateUserStoryPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\HomeWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\LoginWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\SprintApp.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\AccountPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\Pages\AccountPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\HelpWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp\SprintApp\obj\Debug\HelpWindow.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\HelpWindow.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\HomeWindow.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\LoginWindow.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\AccountPage.g.cs
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\HelpWindow.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\HomeWindow.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\LoginWindow.baml
+C:\Users\Owner\Desktop\SprintApp\SprintApp\obj\Debug\Pages\AccountPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\mongocrypt.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\SprintApp.exe.config
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\SprintApp.exe
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\SprintApp.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\Crc32C.NET.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\DnsClient.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MaterialDesignColors.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MongoDB.Bson.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MongoDB.Driver.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\SharpCompress.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\Snappy.NET.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\System.Buffers.dll
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\Crc32C.NET.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\DnsClient.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MaterialDesignColors.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MongoDB.Bson.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MongoDB.Driver.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\MongoDB.Driver.Core.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\Snappy.NET.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\bin\Debug\System.Buffers.xml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp.csprojAssemblyReference.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\HelpWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\HomeWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\LoginWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\MainWindow.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\AccountPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\AddProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\AddSubtaskPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\AddUserStoryPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\BacklogPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\DevPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\HomePage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\ProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\RegisterPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\SprintPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\SubtaskPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\UpdateProjectPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\UpdateSubtaskPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\UpdateUserStoryPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\UserStoryPage.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\App.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp_Content.g.cs
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp_MarkupCompile.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp_MarkupCompile.lref
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\App.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\HelpWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\HomeWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\LoginWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\MainWindow.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\AccountPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\AddProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\AddSubtaskPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\AddUserStoryPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\BacklogPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\DevPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\HomePage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\ProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\RegisterPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\SprintPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\SubtaskPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\UpdateProjectPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\UpdateSubtaskPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\UpdateUserStoryPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\Pages\UserStoryPage.baml
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp.g.resources
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp.Properties.Resources.resources
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp.csproj.GenerateResource.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp.csproj.CopyComplete
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp.exe
+C:\Fanshawe\CPA25\INFO3112-SWP\Project\SprintApp-master\SprintApp\obj\Debug\SprintApp.pdb

@@ -1,0 +1,34 @@
+﻿<Page x:Class="SprintApp.Pages.UpdateSubtaskPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SprintApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="347" d:DesignWidth="648"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+      Title="UpdateSubtaskPage">
+
+    <Grid Height="347" Width="628" Background="#FFFFFBFB">
+        <Border BorderBrush="#FF258B82" BorderThickness="2" HorizontalAlignment="Left" Height="37" Margin="44,8,0,0" VerticalAlignment="Top" Width="185"></Border>
+        <ComboBox x:Name="projectsComboBox" HorizontalAlignment="Left" Margin="57,11,0,0" SelectionChanged="ProjectCB_SelectionChanged" VerticalAlignment="Top" Width="160"/>
+
+        <Border BorderBrush="#FF258B82" BorderThickness="2" HorizontalAlignment="Left" Height="37" Margin="254,8,0,0" VerticalAlignment="Top" Width="344"></Border>
+        <ComboBox x:Name="userStoryComboBox" HorizontalAlignment="Left" Margin="266,11,0,0"  VerticalAlignment="Top" Width="321" SelectionChanged="UserStoryCB_SelectionChanged" />
+        <Separator HorizontalAlignment="Left" Height="21" Margin="46,53,0,0" VerticalAlignment="Top" Width="552"/>
+
+        <StackPanel Margin="304,86,82,66">
+            <TextBox x:Name="subtaskNameTextBox" materialDesign:HintAssist.Hint="Subtask Name" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0"/>
+            <TextBox x:Name="estimateTimeTextBox" materialDesign:HintAssist.Hint="Estimated Time" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0"/>
+            <TextBox x:Name="actualTimeTextBox" materialDesign:HintAssist.Hint="Actual Time" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0"/>
+        </StackPanel>
+        
+        <Label Content="Assigned Developper" Margin="363,206,128,40" FontWeight="Bold" FontFamily="Global Sans Serif"/>
+        <ComboBox x:Name="devComboBox" HorizontalAlignment="Left" Margin="335,236,0,0" VerticalAlignment="Top" Width="182"/>
+        <Border BorderBrush="#FF258B82" BorderThickness="2" HorizontalAlignment="Left" Height="252" Margin="278,80,0,0" VerticalAlignment="Top" Width="302"></Border>
+        <Button Content="Update" HorizontalAlignment="Left" Margin="384,281,0,0" VerticalAlignment="Top" Width="83" Click="UpdateSubtask_Click" />
+        <ComboBox x:Name="subtaskComboBox" HorizontalAlignment="Left" Margin="57,80,0,0" VerticalAlignment="Top" Width="160" SelectionChanged="SubtaskCB_SelectionChanged"/>
+        <Border BorderBrush="#FF258B82" BorderThickness="2" HorizontalAlignment="Left" Height="34" Margin="46,80,0,0" VerticalAlignment="Top" Width="183"/>
+        <TextBox x:Name="indexTextBox" Visibility="Hidden" HorizontalAlignment="Left" Height="23" Margin="57,264,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66"/>
+    </Grid>
+</Page>

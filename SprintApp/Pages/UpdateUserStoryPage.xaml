@@ -1,0 +1,55 @@
+﻿<Page x:Class="SprintApp.Pages.UpdateUserStoryPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SprintApp.Pages"
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+      d:DesignHeight="355" d:DesignWidth="648"
+      Title="UpdateUserStoryPage">
+
+    <Grid HorizontalAlignment="Left" Height="355" Width="648" Background="#FFFFFBFB">
+        <ComboBox x:Name="projectsComboBox" HorizontalAlignment="Left" Margin="61,12,0,0" SelectionChanged="ProjectCB_SelectionChanged" VerticalAlignment="Top" Width="160"/>
+        <StackPanel Margin="315,36,29,86">
+            <TextBox x:Name="projectNameTextBox" materialDesign:HintAssist.Hint="Project Name" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0" IsReadOnly="True"/>
+            <TextBox x:Name="sprintTextBox" materialDesign:HintAssist.Hint="Sprint Name" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0"/>
+            <TextBox x:Name="userStoryTextBox" materialDesign:HintAssist.Hint="As a...         I want to...         So that I can..." Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0"/>
+            <TextBox x:Name="priorityTextBox" materialDesign:HintAssist.Hint="Priority" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0"/>
+            <TextBox x:Name="relativeEstimateTextBox" materialDesign:HintAssist.Hint="Original Estimate" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0"/>
+            <TextBox x:Name="reestimateTextBox" materialDesign:HintAssist.Hint="Re-estimate" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Padding="3 0"/>
+        </StackPanel>
+        <ComboBox x:Name="statusComboBox" IsEditable="False" HorizontalAlignment="Left" Margin="435,260,0,0" VerticalAlignment="Top" Width="116">
+            <ComboBoxItem Content="Open"/>
+            <ComboBoxItem Content="Planned" />
+            <ComboBoxItem Content="Development" />
+            <ComboBoxItem Content="Testing" />
+            <ComboBoxItem Content="Closed" />
+        </ComboBox>
+
+        <TextBlock x:Name="projectIdTextBox" HorizontalAlignment="Left" Margin="323,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Separator HorizontalAlignment="Left" Height="32" Margin="129,160,0,0" VerticalAlignment="Top" Width="313" RenderTransformOrigin="0.5,0.5">
+            <Separator.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.209"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Separator.RenderTransform>
+        </Separator>
+        <Label Content="User Story" HorizontalAlignment="Left" Margin="435,15,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Status" HorizontalAlignment="Left" Margin="384,267,0,0" VerticalAlignment="Top"/>
+        <Label Content="User Story Notes" HorizontalAlignment="Left" Margin="94,99,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <ListBox x:Name="notesListBox" HorizontalAlignment="Left" Height="91" Margin="49,193,0,0" VerticalAlignment="Top" Width="190"/>
+        <Button Content="Update User Story" HorizontalAlignment="Left" Margin="394,298,0,0" VerticalAlignment="Top" Width="149" Click="UpdateUserStory_Click"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="39,298,0,0" VerticalAlignment="Top" Width="95" Click="AddNotes_Click" />
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="155,298,0,0" VerticalAlignment="Top" Width="95" Click="ClearNotes_Click" />
+        <TextBox x:Name="notesTextBox" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="30" Margin="49,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <Border BorderBrush="#FF258B82" BorderThickness="2" HorizontalAlignment="Left" Height="251" Margin="21,94,0,0" VerticalAlignment="Top" Width="246"></Border>
+        <Border BorderBrush="#FF258B82" BorderThickness="2" HorizontalAlignment="Left" Height="335" Margin="303,10,0,0" VerticalAlignment="Top" Width="326"></Border>
+        <Border BorderBrush="#FF258B82" BorderThickness="2" HorizontalAlignment="Left" Height="37" Margin="21,10,0,0" VerticalAlignment="Top" Width="246"></Border>
+        <ComboBox x:Name="userStoryComboBox" SelectionChanged="UserStoryCB_SelectionChanged" HorizontalAlignment="Left" Margin="61,55,0,0" VerticalAlignment="Top" Width="160"/>
+        <Border BorderBrush="#FF258B82" BorderThickness="2" HorizontalAlignment="Left" Height="37" Margin="21,52,0,0" VerticalAlignment="Top" Width="246"></Border>
+    </Grid>
+</Page>
