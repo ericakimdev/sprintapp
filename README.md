@@ -53,3 +53,5 @@ Microsoft Windows Presentation Foundation (WPF)
 ### How to run
 
 - Download or clone code.
+- Click sprintapp\SprintApp\bin\Debug\SprintApp.exe
+- Run the program via Visual Studio 2017 or 2019
